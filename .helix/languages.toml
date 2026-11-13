@@ -1,0 +1,3 @@
+[[language]]
+name = "java"
+indent = { tab-width = 2, unit = "    " }
