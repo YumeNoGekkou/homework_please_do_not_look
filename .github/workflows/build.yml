@@ -14,5 +14,5 @@ jobs:
       - run: mvn clean test package
       - uses: actions/upload-artifact@v3
         with:
-          name: idk
-          path: target/*.jar
+          name: jac
+          path: target/site/jacoco/
