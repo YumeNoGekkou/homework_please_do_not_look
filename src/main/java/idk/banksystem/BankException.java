@@ -1,3 +1,5 @@
+package idk.banksystem;
+
 /**
  * Ngoại lệ chung trong hệ thống ngân hàng.
  */
